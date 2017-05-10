@@ -17,9 +17,9 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"aqwari.net/xml/internal/gen"
-	"aqwari.net/xml/wsdl"
-	"aqwari.net/xml/xsdgen"
+	"github.com/sb-akd/goxml/internal/gen"
+	"github.com/sb-akd/goxml/wsdl"
+	"github.com/sb-akd/goxml/xsdgen"
 )
 
 // Types conforming to the Logger interface can receive information about

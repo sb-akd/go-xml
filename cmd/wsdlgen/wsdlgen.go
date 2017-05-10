@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"aqwari.net/xml/wsdlgen"
-	"aqwari.net/xml/xsdgen"
+	"github.com/sb-akd/goxml/wsdlgen"
+	"github.com/sb-akd/goxml/xsdgen"
 )
 
 func main() {

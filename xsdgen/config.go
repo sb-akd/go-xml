@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"strings"
 
-	"aqwari.net/xml/internal/gen"
-	"aqwari.net/xml/xsd"
+	"github.com/sb-akd/goxml/internal/gen"
+	"github.com/sb-akd/goxml/xsd"
 )
 
 // A Config holds user-defined overrides and filters that are used when

@@ -7,9 +7,9 @@ import (
 	"go/ast"
 	"io/ioutil"
 
-	"aqwari.net/xml/internal/commandline"
-	"aqwari.net/xml/internal/gen"
-	"aqwari.net/xml/xsd"
+	"github.com/sb-akd/goxml/internal/commandline"
+	"github.com/sb-akd/goxml/internal/gen"
+	"github.com/sb-akd/goxml/xsd"
 )
 
 // GenCode reads all xml schema definitions from the provided

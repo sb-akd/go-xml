@@ -1,4 +1,4 @@
-package xsdgen // import "aqwari.net/xml/xsdgen"
+package xsdgen // import "github.com/sb-akd/goxml/xsdgen"
 
 import (
 	"bytes"
@@ -11,9 +11,9 @@ import (
 	"strconv"
 	"strings"
 
-	"aqwari.net/xml/internal/gen"
-	"aqwari.net/xml/xmltree"
-	"aqwari.net/xml/xsd"
+	"github.com/sb-akd/goxml/internal/gen"
+	"github.com/sb-akd/goxml/xmltree"
+	"github.com/sb-akd/goxml/xsd"
 )
 
 type errorList []error

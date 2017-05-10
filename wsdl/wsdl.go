@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"aqwari.net/xml/xmltree"
+	"github.com/sb-akd/goxml/xmltree"
 )
 
 const (
